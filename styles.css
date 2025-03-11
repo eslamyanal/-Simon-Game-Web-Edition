@@ -1,0 +1,45 @@
+body{
+    background-color:#0a9396;
+    text-align: center;
+    font-size: 1.5rem;
+    margin:  5% 7%;
+    line-height: 1.5;
+    font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+    color: #e9d8a6;
+}
+#blue{
+    background-color: #005f73;
+    height: 150px;
+    width: 150px;
+    margin:  5% 5%;
+
+}
+#green{
+    background-color: #99ff88;
+    height: 150px;
+    width: 150px;
+    margin:  5% 5%;
+
+}
+#yellow{
+    background-color: #ffbf38;
+    height: 150px;
+    width: 150px;
+    margin:  5% 5%;
+
+}
+#red{
+    background-color: #b8001f;
+    height: 150px;
+    width: 150px;
+    margin:  5% 5%;
+
+}
+.flash {
+    background-color: white;
+    opacity: 0.5;
+}
